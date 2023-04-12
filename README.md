@@ -1,0 +1,2 @@
+# PriceCalculator
+Handmade items calculator
